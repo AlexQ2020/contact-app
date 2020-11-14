@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:/xampp/htdocs/5sampleBlog/.idea/5sampleBlog.iml" filepath="C:/xampp/htdocs/5sampleBlog/.idea/5sampleBlog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/form-validation.iml" filepath="$PROJECT_DIR$/.idea/form-validation.iml" />
+    </modules>
+  </component>
+</project>
